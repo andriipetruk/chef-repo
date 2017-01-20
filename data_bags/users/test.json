@@ -1,0 +1,14 @@
+{
+  "id": "test",
+  "uid": 5050,
+  "shell": "/bin/bash",
+  "github": "andriipetruk",
+  "groups": [
+    "users",
+    "sysadmin",
+    "jenkins-admin"
+  ],
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDTYfbVU+RuqLN0m66K+WVcwaYWSz4pxy9tl/J5SVSFz6pmkkMLX5aH4b9/nBKC82S7wP+PBW1LZZOfgVGribmVtgK2eEMv6f0bIEspNTTJBb4iLpTJ73tPmFa7he/lkq9SYYvTTcRvP347IJYgLRX/VSYdwSQFV3SM33Tv9vEAHNIMdv6K+Mg8C5CZK7KiJdvYe8LnYzzpfkE54GXVJIF+E7Z8TY/plVAQ0x/n7Mnin1FS638UZ0i5+Jjftd4EbVYy/LDH6M8/VVojA/VIckDcPHjMlR5W/R9j5/lj6Af+yAScfYPjZ/WJA55Snj7hzkC6diDFZIFov4BNKjdc4HsqIC31gBOg5pFg9Nv+ejl47rRXOJJAd31IW+oTlW9BHlvNWZwS/hCQXm5JUQk4oYO3pxEfjQtchxINzX7wN1C1danOCBpvsReN1ayVWaJ07USeb48udjEPM01f9tUnkt7792/ovm5OSrRATP4bGCLdID34tgyQVLcpoiInvcLkHrmjqzNJ7Iu9zcmjI3QXbW5NFKvcBdjM4UuN1dkteVf5L8zrE010rOEnx6f09ylc0CI03lR8x6efsXBHy5bIBa+VxqjmLSDB6AICPVf3SaSk79aVZEBO9QANlX6x3HCOs3h65DWT7whUOFQAGMWTzwSp4e+LGuBGXoichpp4h+FVPw== andriig.petruk@gmail.com"
+  ]
+}

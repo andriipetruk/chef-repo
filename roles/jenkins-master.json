@@ -1,0 +1,19 @@
+{
+  "name": "jenkins-master",
+  "description": "The Jenkins master node in a Jenkins build farm",
+  "json_class": "Chef::Role",
+  "default_attributes": {
+
+  },
+  "override_attributes": {
+
+  },
+  "chef_type": "role",
+  "run_list": [
+    "role[base]",
+    "recipe[kony-jenkins::master]"
+  ],
+  "env_run_lists": {
+
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "base",
+  "description": "Baseline role that configures a common set of user access, monitoring, and chef-client monitoring across all nodes",
+  "json_class": "Chef::Role",
+  "default_attributes": {
+    "authorization": {
+      "sudo": {
+        "passwordless": true,
+        "include_sudoers_d": true,
+        "groups": [
+          "admin",
+          "wheel",
+          "sysadmin"
+        ]
+      }
+    },
+    "java": {
+      "oracle": {
+        "accept_oracle_download_terms": true
+      }
+    }
+  },
+  "override_attributes": {
+
+  },
+  "chef_type": "role",
+  "run_list": [
+    "recipe[kony-base]"
+  ],
+  "env_run_lists": {
+
+  }
+}

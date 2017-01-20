@@ -1,0 +1,12 @@
+{
+  "id": "jenkins",
+  "groups": [
+    "jenkins",
+    "jenkins-admin"
+  ],
+  "jenkins_id": "jenkins",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAovceALgILwhH7dEva5Jdl6AJP5tVSMsLLmPG7reIz+Q2roMDRbAq+QmUccYrL7uVNIwX/fvU++2x33Os4yH0tk5O9dg2AECQ/+Pg6YOo54Vbp/9Lt6cVAeBcYmK2mDmvaRufqKR+4JoAC7F8czGDC+OIM3g/RqtHSUFb2xvpCNewT0m3deP+WqQQTXVvUGyoJ8dWvqk04UdArzgiwoHLnXBmbily64JagHvcJRrMEnYbpSUUoLFNb/DXOuFYdEBo0Hhe/qRdL/TTS7+BTxcpOCAxBfz7H+sOh4K9++Aoiya7QrqFLuOUEme+Lf2npKfJj/r7frhg4hdNvV5nK1Algw== jenkins@konycloud.com"
+  ]
+}
